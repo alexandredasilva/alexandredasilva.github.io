@@ -1,4 +1,4 @@
-# Repositório Público do estudante de tecnologia Alexandre Jesus
+# Repositório Público do estudante de tecnologia Alexandre
 
 <p>Neste repositório estarão presentes todos os exercícios feitos durante os cursos.</p>
 
