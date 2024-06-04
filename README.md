@@ -1,6 +1,6 @@
 # Repositório Público do estudante de tecnologia Alexandre
 
-<p>Acesse o meu perfil no GitHub: <a href="https://github.com/alexandredasilva">https://github.com/alexandredasilva</a></p>
+<p>Acesse o meu perfil no GitHub: <a href="https://github.com/alexandredasilva" target="_blank">https://github.com/alexandredasilva</a></p>
 
 <p>Neste repositório estarão presentes todos os exercícios feitos durante os cursos.</p>
 
