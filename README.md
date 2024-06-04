@@ -6,6 +6,7 @@
 
 <ul>
     <li><a href="https://github.com/alexandredasilva/html-css/tree/main/exercicios">Códigos dos exercícios</a></li>
+    <li><a href="https://github.com/alexandredasilva/projeto-android">Código do meu primeiro projeto</a></li>
 </ul>
 
 <p>Acesse o meu perfil no GitHub: <a href="https://github.com/alexandredasilva" target="_blank">https://github.com/alexandredasilva</a></p>
