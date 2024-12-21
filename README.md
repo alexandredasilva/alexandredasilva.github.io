@@ -1,4 +1,4 @@
-<link ref="stylesheet" href="estilo/style.css">
+<link ref="stylesheet" href="../estilo/style.css">
 
 # Repositório Público do estudante de tecnologia Alexandre
 
