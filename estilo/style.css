@@ -58,7 +58,7 @@ main h2 {
 
 main p {
     margin-top: 20px;
-    padding-left: 40px;
+    padding: 0px 40px;
 }
 
 main h3 {
@@ -99,7 +99,6 @@ ul a:hover {
 .perfil {
     text-align: center;
     font-size: 1em;
-    padding: 0px 0px 20px;
 }
 
 .perfil a {
