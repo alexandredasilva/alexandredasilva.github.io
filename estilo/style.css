@@ -99,7 +99,7 @@ ul a:hover {
 .perfil {
     text-align: center;
     font-size: 1em;
-    padding-bottom: 20px;
+    padding: 0px 0px 20px;
 }
 
 .perfil a {
@@ -110,5 +110,4 @@ ul a:hover {
 .perfil a:hover {
     color: blue;
     text-decoration: underline;
-    padding: 0px;
 }
