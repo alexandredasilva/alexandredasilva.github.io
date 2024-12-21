@@ -1,3 +1,5 @@
+<link ref="stylesheet" href="estilo/style.css">
+
 # Repositório Público do estudante de tecnologia Alexandre
 
 <p>Neste repositório estarão presentes todos os exercícios feitos durante os cursos.</p>
